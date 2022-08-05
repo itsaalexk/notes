@@ -1,5 +1,9 @@
-# Webpack configurado
+# Note App
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+## A small but very convenient note app developed using webpack so you can use it un all browsers without having compatibility issues.
 
-Pero esto lo veremos en la siguiente sección
+### Website deployed using Github Pages , for the full version, visit this site:
+ 
+ https://itsaalexk.github.io/notes/
+
+### All the information you input on the website , will be saved on your local storage , so you can refresh as many times you want.
