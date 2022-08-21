@@ -1,6 +1,6 @@
 # Note App
 
-## A small but very convenient note app developed using webpack so you can use it un all browsers without having compatibility issues.
+## A small but very convenient note app developed using webpack so you can use it on all browsers without having compatibility issues.
 
 ### Website deployed using Github Pages , for the full version, visit this site:
  
